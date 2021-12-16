@@ -1,4 +1,7 @@
 .box {
-    display: flex;
-    padding: 10px;
- }
+    border: solid;
+    border-radius: 5px;
+  display: flex;
+  padding: 10px;
+  color: rgb(0, 172, 92);
+}
